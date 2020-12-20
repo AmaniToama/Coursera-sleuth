@@ -47,6 +47,7 @@ function draw()
 	image(img,0,0);
 
 	//Write your code below here ...
+rect(432,163,150,300);
 
 
 }
