@@ -45,7 +45,7 @@ function setup()
 function draw()
 {
 	image(img,0,0);
-	rect(950,20,100,200);
+	rect(img.width,20,100,200);
 
 	//Write your code below here ...
 
